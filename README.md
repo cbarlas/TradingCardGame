@@ -1,2 +1,2 @@
 # TradingCardGame
-A code case for a simple trading card game.
+A code case for a simple text based trading card game.
